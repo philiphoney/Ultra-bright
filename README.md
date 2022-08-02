@@ -12,7 +12,7 @@ Is currently available in Minecraft version 1.19.x.
 
 Since recently there are now Fullbright Vanilla and Optifine in one pack. So you don't need a new pack for every new version.
 
-<img src="./image/fullbright-is-a-pack.png" width="65%"/>
+<img src="./image/fullbright-is-a-pack-2.png" width="65%"/>
 
 ## What is Fullbright ?
 
