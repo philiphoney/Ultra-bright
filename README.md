@@ -1,4 +1,4 @@
-<img src="./image/Ultra-bright-logo.png" width="55%"/>
+<img src="https://cdn.discordapp.com/attachments/698641984499220531/1017446325773664326/Ultra_bright_logo_long-grey.png" width="55%"/>
 
 ##
 
