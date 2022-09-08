@@ -8,7 +8,7 @@ know when a new beta or a new version is released.
 Ultra bright is the Fullbright Vanilla Peck and the Optifine Pack in one.
 Is currently available in Minecraft version 1.19.x.
 
-## Vanllia and Optifine Fullbright is now a pack.
+## Vanilla and Optifine Fullbright is now a pack.
 
 Since recently there are now Fullbright Vanilla and Optifine in one pack. So you don't need a new pack for every new version.
 
